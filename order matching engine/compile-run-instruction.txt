@@ -1,0 +1,6 @@
+compile
+g++ orderboo.cpp Source.cpp -std=c++11 -o executable
+
+run
+
+./executable
