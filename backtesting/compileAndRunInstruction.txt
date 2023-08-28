@@ -1,0 +1,13 @@
+//compile in struction
+g++ -v main.cpp OMS.cpp Strategy.cpp MDR.cpp global.cpp -o my_final
+
+
+
+//run- ./my_final
+
+
+Note :pass these files in main.cpp  t.csv[Alternate of tardeprints.csv] and m.csv[Alternate of marketdata.csv] 
+  if u want to to execute code and see sample output faster
+ in portfolio.csv file
+
+ //
